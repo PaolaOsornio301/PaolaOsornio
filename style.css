@@ -43,6 +43,8 @@ p{
 
 #parte2{
     grid-area: parte2;
+    background-image: linear-gradient(to bottom, yellow,white);
+
 }
 
 #media6{
@@ -51,6 +53,7 @@ p{
 
 #parte3{
     grid-area: parte3;
+    background-image: linear-gradient(to bottom, yellow,white);
 }
 
 #parte4{
